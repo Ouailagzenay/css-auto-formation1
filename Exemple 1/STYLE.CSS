@@ -1,0 +1,10 @@
+.hallo{ 
+    background-color: orangered;
+   height: 3REM;
+   max-width: 5rem;
+}
+.bonjour{
+    background-color: peru;
+    height: 4rem;
+    max-width: 5rem;
+}
