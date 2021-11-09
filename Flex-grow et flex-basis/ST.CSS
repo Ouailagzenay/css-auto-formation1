@@ -1,0 +1,42 @@
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid #c3c3c3;
+    max-width: 300px;
+}
+.A{
+    background-color: rgb(68, 8, 18);
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+.B{
+    background-color: rgb(44, 56, 109);
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+.C{
+    background-color: pink;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+.D{
+    background-color: rgb(153, 29, 8);
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+.E{
+    background-color: rgb(25, 87, 13);
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+.F{
+    background-color: rgb(2, 131, 136);
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
